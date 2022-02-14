@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  padding: 0;
+  padding-top: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 36px;
+  font-weight: 800;
+  text-align: center;
+  justify-content: center;
+  background-color: rgb(207, 238, 186);
+}
+
+*,
+*:active {
+  box-sizing: border-box;
+}
+
+.form {
+  padding: 20px 10px 60px;
+  width: 500px;
+  height: 280px;
+  margin: 0 auto;
+  border: 1px solid hsl(0, 1%, 63%);
+  border-radius: 5px;
+}
+
+input,
+button {
+  margin-top: 20px;
+  width: 430px;
+  height: 60px;
+  border: 1px solid hsl(0, 1%, 63%);
+  border-radius: 3px;
+}
+input {
+  font-size: 26px;
+  background-color: rgb(237, 238, 237);
+}
+
+button {
+  margin-top: 35px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 26px;
+  cursor: pointer;
+  background-color: rgb(74, 211, 74);
+}
+h2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 32px;
+  font-weight: 800;
+}
+
+.todo-list {
+  margin: 0 auto;
+  width: 500px;
+  min-height: 100px;
+  border: 1px solid hsl(0, 1%, 63%);
+  border-radius: 5px;
+}
+.todo-item {
+  margin: 20px auto;
+  max-width: 430px;
+  height: 60px;
+  border: 1px solid hsl(0, 1%, 63%);
+  background-color: rgb(237, 238, 237);
+  border-radius: 3px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 26px;
+  font-weight: 500;
+}
