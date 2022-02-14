@@ -1,7 +1,11 @@
 # Todo-List
+https://dianazhusupbek.github.io/Todo-List/
+
 - **Описание задания**
     
     Написать простое приложение «Список дел»
+    ![image](https://user-images.githubusercontent.com/88156532/153879716-feedda07-7edc-4281-8c81-ddead8d21cfd.png)
+
     
     ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/16598d42-78bc-4253-b4a4-425ee853b529/Untitled.png)
     
